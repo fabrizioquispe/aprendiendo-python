@@ -1,0 +1,28 @@
+LA INFOMRACION ES UN CONJUNO DE DATOS
+LAS VARIABLES ES UN CONTENEDOR QUE NOS PERMITE GUARDAR INFORMACION
+
+REGLAS DE NOMENCLATURA
+1.- NO PUEDEN TENER ESPACIOS
+2.- NO EMPEZAR CON UN NUMERO
+3.- NO PUEDE SER UNA VARIABLE RESERVADA
+
+CONVENCION DE NOMBRES
+camelCase              fechaDeNacimiento     variables 
+snake_case             fecha_de_nacimiento   constantes
+SCREAMING_SNAKE_CASE   FECHA_DE_NACIMIENTO
+kebab-case             fecha-de-nacimiento 
+l33t                   PASSWORD
+NOTACION HUNGARA       strNombre
+
+PARA COMENTAR EN PYTHON
+#PARA UNA SOLA LINEA
+"""PARA VARIAS LINEAS"""
+
+TIPOS DE ARRAYS EN PYTHON
+Existen 3 tipos de arrya en python
+los SET
+los ARRAYS
+los TUPLE
+
+PYTHON SCOPE
+Una variable solo está disponible desde dentro de la funcion en la que se crea. Esto se llama alcance.
